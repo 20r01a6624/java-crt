@@ -1,0 +1,28 @@
+
+abstract class Bike{
+   int wheels=2;
+   int seats;
+   String name;
+   double engine;
+   abstract  void sound();
+  
+
+}
+class bullet extends Bike{
+    double engine=500;
+    String name="himalayan";
+    int seats=2;
+    void sound(){
+        System.out.println("DUBDUBDUB");
+    }
+
+}
+
+
+public class abs {
+   public static void main(String[] args){
+       bullet obj=new bullet();
+       obj.seats=100;
+
+
+   }
