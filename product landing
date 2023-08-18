@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<head>
+    <title>product landing</title>
+     <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header id="header">
+        <div class="logo">
+            <img id="header-img" src="C:\Users\KARTHIK KATHI\OneDrive\Desktop\frontend\html\codeclause\gnb-desktop-120x32.png" width="150px">
+        
+        </div>
+        <nav id="nav-bar">
+        <ul>
+         <li ><a class="nav-link" href="#Features">Features</a></li>
+         <li ><a  class="nav-link" href="#seller">Seller</a></li>
+         <li ><a class="nav-link" href="#payment">Payment process</a></li>
+         </ul>
+         </nav>
+
+    </header>
+     <div>
+       <img id="center" id="img" src="C:\Users\KARTHIK KATHI\OneDrive\Desktop\frontend\html\codeclause\samsung-galaxy-s22-ultra-36998.jpg" width="150px">
+  <img id="s20" id="img" src= "C:\Users\KARTHIK KATHI\OneDrive\Desktop\frontend\html\codeclause\Samsung-Galaxy-S22-Ultra-official-render.webp" width="150px">
+
+
+</div><div id="price"><b>Price:$1999.00</b></div>
+<div id="Features">
+<img src="C:\Users\KARTHIK KATHI\OneDrive\Desktop\frontend\html\codeclause\product-testing-icon.webp" height="100px">
+ <div><ul>
+<b>Camera:</b> It has a main 108MP camera, two telephoto cameras, 100x zoom, and 40MP selfies1.<br>
+<b>Processor:</b> It offers faster performance from Qualcomm’s Snapdragon 888 chip2.<br>
+<b>Display: </b>It has a stunning adaptive display with support for 10Hz to 120Hz at Quad HD+ quality3. The display is a 6.8-inch 120Hz Quad HD display1.<br>
+<b>Design:</b> It comes in a sleeker design with a glass back (instead of plastic)2.<br>
+<b>Memory: </b>It has more RAM and a higher-res display than the regular Galaxy S212. It has up to 16GB of RAM1.<br>
+<b>Battery:</b> It has all-day battery life1.<br>
+<b>Fingerprint Sensor:</b> It has an upgraded in-screen fingerprint sensor that has a 1.7x larger surface area than the one on last year’s phone1.<br> <ul></div>
+</div>
+<div id="seller">
+ <img  src="C:\Users\KARTHIK KATHI\OneDrive\Desktop\frontend\html\codeclause\icon.jpeg" height:"30px">
+  <b>Adress:<br><br></b>
+     Medchal Road, Green Park, Near New Little Lilly High School, Jeedimetla, Hyderabad, Telangana 500055 · 
+           
+</div>
+<div id="payment">
+ <img  src="C:\Users\KARTHIK KATHI\OneDrive\Desktop\frontend\html\codeclause\OIP.jpeg" height:"30px">
+  <ul><li><b>UPI</b><br>
+  <b>CARD</b><br>
+
+    <b>COD</b>   </li></ul>
+</div>
+</body>
+</html>
